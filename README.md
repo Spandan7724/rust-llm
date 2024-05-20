@@ -7,8 +7,8 @@ A chatbot webapp with backend and frontend made using only Rust, the webapp is d
 The project is using CUDA acceleration for faster responses
 
 
-### Rust Toolchain
-Installations:
+### Installations:
+
 ```
 rustup toolchain install nightly
 rustup target add wasm32-unknown-unknown
