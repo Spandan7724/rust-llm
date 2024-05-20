@@ -1,5 +1,5 @@
 # Rust-LLm webapp
-A chatbot webapp whose backend and frontend is made using only Rust, webapp designed with TailwindCSS and the model used is an open source language model downloaded from HuggingFac
+A chatbot webapp with backend and frontend made using only Rust, the webapp is designed with TailwindCSS and the model used is an open source language model downloaded from HuggingFace.
 
 ## Setup Instructions
 
