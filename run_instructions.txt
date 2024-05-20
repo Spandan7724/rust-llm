@@ -1,0 +1,4 @@
+first run in project directory
+npx tailwindcss -i ./input.css -o ./style/output.css --watch
+
+then run cargo leptos watch also in the project directory in another terminal 
